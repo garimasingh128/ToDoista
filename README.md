@@ -18,7 +18,7 @@ This web application is made with MongoDB, Express.js, React.js and Node.js. It 
 <img src="Screenshot (426).png" height="250px">
 <img src="Screenshot (427).png" height="250px">
 
-[Check out the video on Vimeo](https://vimeo.com/user103886349/review/422120752/2c7f38db2d)
+[Check out the video on Vimeo](https://vimeo.com/422120752?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=28749)
 
 ## 🤝 How to Contribute
 

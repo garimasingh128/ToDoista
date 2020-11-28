@@ -75,6 +75,24 @@ Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
 
   ⭐ [Check out the website of NJACK Winter of Code 2020](https://njackwintercode.github.io)
 
+
+## 📋 Table of Contents
+ ➡️   [Inspiration](#-Inspiration)
+ 
+ ➡️   [Tech Stack](#-Tech-Stack)
+
+ ➡️   [Development Guidelines](#-development-guidelines)
+ 
+ ➡️   [Learning Resources](#-Learning-Resources)
+ 
+ ➡️   [Code Of Conduct](#-Code-of-Conduct)
+
+ ➡️   [Livence](#-Licence)
+
+ ➡️   [System Requirements](#-system-requirements)
+ 
+ ➡️   [Contributing](#-Contributors)
+
 ## ❤️ Inspiration
 We were inspired to create it when we saw that not many tools are available open-source or on the Internet which do the job we intend to do. So we decided to create it as a side-project based purely to learn 
 
@@ -85,6 +103,15 @@ The project is created using create-react-app and based on React.js framework.
 -  JavaScript: 92.9%
 -  CSS: 3.9%
 -  HTML: 3.2%
+
+
+ ## 💻 Development guidelines
+
+1.  Put all the code in one of the existing files in  `/src`.
+    
+3.  Push all the code to your own branch. Once you are sure it is working, merge it with the `dev`  branch. Let's maintain only the stable and released versions on the  `master`  branch.
+    
+4.  Write a kick-ass, readable, and clean code.
 
 
 ## 📝 Learning Resources
@@ -111,6 +138,8 @@ Read these articles to get a quick grab ontechnologies used in the project:
 
 We want to facilitate a healthy and constructive community behavior by adopting and enforcing our code of conduct.
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ## ❤️ Thanks to our awesome contributors.
 

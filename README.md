@@ -7,7 +7,6 @@
 
 This web application is made with MongoDB, Express.js, React.js and Node.js. It has a simple motive to fulfil- making todo lists simple.
 
-Gitter Channel: https://gitter.im/NWoC2020/ToDoista
 
 ## Features
 

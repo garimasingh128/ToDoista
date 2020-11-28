@@ -139,7 +139,7 @@ Please adhere toward our [Code-of-Conduct](Code-of-Conduct.md).
 
 ## 🏆 Contributing
 
-Please read  [CONTRIBUTING.md](CONTRIBUTING.md)  for information on how to contribute to profext-extension.
+Please read  [CONTRIBUTING.md](CONTRIBUTING..md)  for information on how to contribute to profext-extension.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

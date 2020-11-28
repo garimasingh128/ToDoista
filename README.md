@@ -1,4 +1,4 @@
-# 👣 Git Set Go
+# 👣 TODISTA
 
 # TODOISTA - Todo Apps made simpler
 

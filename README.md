@@ -137,6 +137,10 @@ Read these articles to get a quick grab ontechnologies used in the project:
 We want to facilitate a healthy and constructive community behavior by adopting and enforcing our code of conduct.
 Please adhere toward our [Code-of-Conduct](Code-of-Conduct.md).
 
+## 🏆 Contributing
+
+Please read  [CONTRIBUTING.md](CONTRIBUTING.md)  for information on how to contribute to profext-extension.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 

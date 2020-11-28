@@ -135,7 +135,7 @@ Read these articles to get a quick grab ontechnologies used in the project:
 ##  💼  Code of Conduct
 
 We want to facilitate a healthy and constructive community behavior by adopting and enforcing our code of conduct.
-Please adhere toward our Code-of-Conduct](Code-of-Conduct).
+Please adhere toward our [Code-of-Conduct](Code-of-Conduct).
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

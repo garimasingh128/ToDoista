@@ -87,7 +87,7 @@ Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
  
  ➡️   [Code Of Conduct](#-Code-of-Conduct)
 
- ➡️   [Livence](#-Licence)
+ ➡️   [License](#-License)
 
  ➡️   [System Requirements](#-system-requirements)
  

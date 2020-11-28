@@ -1,4 +1,4 @@
-# 👣 TODISTA
+# 👣 TODOISTA
 
 # TODOISTA - Todo Apps made simpler
 

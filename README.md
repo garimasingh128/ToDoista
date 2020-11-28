@@ -22,6 +22,24 @@ Gitter Channel: https://gitter.im/NWoC2020/ToDoista
 
 [Check out the video on Vimeo](https://vimeo.com/422120752?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=28749)
 
+## Quick Start :
+
+- **Fork it** :
+
+Get your own Fork/Copy of repository by clicking `Fork` button right upper corner.<br><br>
+
+- **Clone**:
+
+```sh
+$ git clone https://github.com/garmisingh128/ToDosita.git
+```
+
+- **Branching**
+```
+$ git checkout -b [your_branch_name]
+```
+
+
 ## 🤝 How to Contribute
 
 ### For sending PR:-
@@ -129,5 +147,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
+## Like This?? Star ⭐ this Repo.
 
 💜 **Thanks**

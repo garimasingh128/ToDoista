@@ -77,7 +77,7 @@ Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
 
 
 ## 📋 Table of Contents
- ➡️   [Inspiration](#-inspiration)
+ ➡️   [Inspiration](#%EF%B8-inspiration)
  
  ➡️   [Tech Stack](#-Tech-Stack)
 
@@ -85,11 +85,11 @@ Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
  
  ➡️   [Learning Resources](#-Learning-Resources)
  
- ➡️   [Code Of Conduct](#-code-of-conduct)
+ ➡️   [Code Of Conduct](#--code-of-conduct)
 
- ➡️   [License](#-license)
+ ➡️   [License](#license)
  
- ➡️   [Contributing](#-contributors)
+ ➡️   [Contributing](#contributors)
 
 ## ❤️ Inspiration
 We were inspired to create it when we saw that not many tools are available open-source or on the Internet which do the job we intend to do. So we decided to create it as a side-project based purely to learn 

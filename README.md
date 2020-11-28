@@ -1,3 +1,4 @@
+# 👣 Git Set Go
 
 # TODOISTA - Todo Apps made simpler
 
@@ -67,11 +68,34 @@ You are also supposed to implement a Database in the Backend which should store 
 The data sharing between Frontend and Backend should be in JSON format rendered over REST APIs.
 Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
 
+# This project is a part of NJACK Codes 2020 👣
+  OPEN SOURCE CONTEST - NWoc Code
+
+  ⭐ [Check out the website of HackinCodes 2020](https://njackwintercode.github.io)
+
+## ❤️ Inspiration
+We were inspired to create it when we saw that not many tools are available open-source or on the Internet which do the job we intend to do. So we decided to create it as a side-project based purely to learn 
+
+
+
+## 🔆 Tech Stack
+The project is created using create-react-app and based on React.js framework.
+-  JavaScript: 92.9%
+-  CSS: 3.9%
+-  HTML: 3.2%
+
+### Resources for node.js:
+- https://nodejs.org/en/about/resources/
+- https://github.com/sindresorhus/awesome-nodejs
+- https://www.tutorialsteacher.com/nodejs/nodejs-resources
+
+## ❤️ Thanks to our awesome contributors.
+
+
 ## Contributors
 
 * [Garima Singh](https://github.com/garimasingh128)
 * [Mrinal](https://github.com/mrinal41298)
-
 
 
 
@@ -146,6 +170,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
 
 ## Like This?? Star ⭐ this Repo.
 

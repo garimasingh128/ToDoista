@@ -71,7 +71,7 @@ Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
 # This project is a part of NJACK Codes 2020 👣
   OPEN SOURCE CONTEST - NWoc Code
 
-  ⭐ [Check out the website of HackinCodes 2020](https://njackwintercode.github.io)
+  ⭐ [Check out the website of NJACK Winter of Code 2020](https://njackwintercode.github.io)
 
 ## ❤️ Inspiration
 We were inspired to create it when we saw that not many tools are available open-source or on the Internet which do the job we intend to do. So we decided to create it as a side-project based purely to learn 
@@ -84,10 +84,31 @@ The project is created using create-react-app and based on React.js framework.
 -  CSS: 3.9%
 -  HTML: 3.2%
 
+
+## 📝 Learning Resources
+Read these articles to get a quick grab ontechnologies used in the project:
+
+### Resources for learning React.js:
+- https://reactresources.com
+- https://reactjs.org/community/external-resources.html
+- https://reactjs.org/docs/getting-started.html
+- https://github.com/enaqx/awesome-react
+
 ### Resources for node.js:
 - https://nodejs.org/en/about/resources/
 - https://github.com/sindresorhus/awesome-nodejs
 - https://www.tutorialsteacher.com/nodejs/nodejs-resources
+
+### Resources to learn Git and Github:
+- https://try.github.io/
+- https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources
+- https://guides.github.com/activities/hello-world/
+
+
+##  💼  Code of Conduct
+
+We want to facilitate a healthy and constructive community behavior by adopting and enforcing our code of conduct.
+
 
 ## ❤️ Thanks to our awesome contributors.
 

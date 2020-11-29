@@ -1,7 +1,11 @@
 
 # TODOISTA - Todo Apps made simpler
 
+[![Join the chat at https://gitter.im/KWoC2020/ToDoista](https://badges.gitter.im/KWoC2020/ToDoista.svg)](https://gitter.im/KWoC2020/ToDoista?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This web application is made with MongoDB, Express.js, React.js and Node.js. It has a simple motive to fulfil- making todo lists simple.
+
+Gitter Channel: https://gitter.im/NWoC2020/ToDoista
 
 ## Features
 
@@ -10,6 +14,8 @@ This web application is made with MongoDB, Express.js, React.js and Node.js. It 
 * Create todo Logged
 * Create User
 * Start date and deadlines included
+
+## Create all PRs' on develop branch only!
 
 ## ScreenShots
 
@@ -24,7 +30,7 @@ This web application is made with MongoDB, Express.js, React.js and Node.js. It 
 
 ### For sending PR:-
 >-   Pick an open issue from the  [issue list](https://github.com/garimasingh128/ToDoista/issues)  and claim it in the comments. After approval fix the issue and send us a pull request (PR).
->-   All the PR’s need to be sent to the appropriate branch (usually "master").
+>-   All the PR’s need to be sent to the appropriate branch.
 
 ### For Open issue:-
 >-   You can create a new issue and send a pull request.

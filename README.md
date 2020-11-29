@@ -5,6 +5,10 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/garimasingh128/ToDoista.svg?logo=github)
 ![GitHub forks](https://img.shields.io/github/forks/garimasingh128/ToDoista.svg?logo=github&color=teal)
+![License](https://img.shields.io/badge/license-MIT-brightgreen)
+![Maintained](https://img.shields.io/maintenance/yes/2020)
+![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-tomato.svg?style=flat&logo=git)
+![GitHub top language](https://img.shields.io/github/languages/top/garimasingh128/ToDoista?color=yellow&logo=javascript)
 
 # TODOISTA - Todo Apps made simpler
 

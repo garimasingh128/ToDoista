@@ -13,6 +13,8 @@ Gitter Channel: https://gitter.im/NWoC2020/ToDoista
 * Create User
 * Start date and deadlines included
 
+## Create all PRs' on develop branch only!
+
 ## ScreenShots
 
 <img src="Screenshot (424).png" height="250px">
@@ -26,7 +28,7 @@ Gitter Channel: https://gitter.im/NWoC2020/ToDoista
 
 ### For sending PR:-
 >-   Pick an open issue from the  [issue list](https://github.com/garimasingh128/ToDoista/issues)  and claim it in the comments. After approval fix the issue and send us a pull request (PR).
->-   All the PR’s need to be sent to the appropriate branch (usually "master").
+>-   All the PR’s need to be sent to the appropriate branch.
 
 ### For Open issue:-
 >-   You can create a new issue and send a pull request.

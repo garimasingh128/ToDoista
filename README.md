@@ -97,7 +97,7 @@ We were inspired to create it when we saw that not many tools are available open
 
 
 ## 🔆 Tech Stack
-The project is created using create-react-app and based on React.js framework.
+ This web application is made with MongoDB, Express.js, React.js and Node.js
 -  JavaScript: 92.9%
 -  CSS: 3.9%
 -  HTML: 3.2%
@@ -139,7 +139,7 @@ Please adhere toward our [Code-of-Conduct](Code-of-Conduct.md).
 
 ## 🏆 Contributing
 
-Please read  [CONTRIBUTING.md](CONTRIBUTING..md)  for information on how to contribute to profext-extension.
+Please read  [CONTRIBUTING.md](CONTRIBUTING..md)  for information on how to contribute to ToDoista.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

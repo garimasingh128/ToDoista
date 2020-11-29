@@ -3,8 +3,8 @@
 
 [![Join the chat at https://gitter.im/NWoc2020/ToDoista](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/NWoc2020/ToDoista?utm_source=badge&utm_medium=badge&utm_content=badge)
 
-![GitHub stars](https://img.shields.io/github/stars/garimasingh128/profext.svg?logo=github)
-![GitHub forks](https://img.shields.io/github/forks/garimasingh128/profext.svg?logo=github&color=teal)
+![GitHub stars](https://img.shields.io/github/stars/garimasingh128/ToDoista.svg?logo=github)
+![GitHub forks](https://img.shields.io/github/forks/garimasingh128/ToDoista.svg?logo=github&color=teal)
 
 # TODOISTA - Todo Apps made simpler
 

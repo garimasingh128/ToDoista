@@ -267,7 +267,31 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/garimasingh128/)
 
-
 ## Like This?? Star ⭐ this Repo.
+
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/garimasingh128/profext)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://github.com/garimasingh128/profext)
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](https://github.com/garimasingh128/profext)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://github.com/garimasingh128/profext)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://github.com/garimasingh128/profext)
+
+> Made By Garima Singh with ❤️
+
+> Garima Singh &copy; 2020
+<br><br>
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/garimasingh128/)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/garimasingh128/)
+
+## ❤️ Thanks to our awesome contributors.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+
 
 💜 **Thanks**

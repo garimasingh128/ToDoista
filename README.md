@@ -2,6 +2,9 @@
 
 
 [![Join the chat at https://gitter.im/NWoc2020/ToDoista](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/NWoc2020/ToDoista?utm_source=badge&utm_medium=badge&utm_content=badge)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/garimasingh128/ToDoista)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)&nbsp;
+<br>
 
 ![GitHub stars](https://img.shields.io/github/stars/garimasingh128/ToDoista.svg?logo=github)
 ![GitHub forks](https://img.shields.io/github/forks/garimasingh128/ToDoista.svg?logo=github&color=teal)
@@ -14,6 +17,14 @@
 
 This web application is made with MongoDB, Express.js, React.js and Node.js. It has a simple motive to fulfil- making todo lists simple.
 
+# Mentors
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/garimasingh128/ToDoista/) [![Issues Open](https://img.shields.io/github/issues/garimasingh128/ToDoista)](https://github.com/garimasingh128/ToDoista/issues) [![PRs](https://img.shields.io/github/issues-pr/garimasingh128/ToDoista)](https://github.com/garimasingh128/ToDoista/pulls/)
+ [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/garimasingh128)
+
+| GitHub Usernames                                      | Domain                     |
+| ----------------------------------------------------- | -------------------------- |
+| [@garimasingh128](https://github.com/garimasingh128)          | Full Stack + Documentation |
 
 ## Features
 
@@ -81,6 +92,10 @@ Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
   OPEN SOURCE CONTEST - NWoc Code
 
   ⭐ [Check out the website of NJACK Winter of Code 2020](https://njackwintercode.github.io)
+
+<div >
+<img src="https://njackwinterofcode.github.io/images/nwoc-logo.png" alt="nwoc" height="300" />
+  </div>
 
 
 ## 📋 Table of Contents
@@ -232,6 +247,25 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## 👬 Owner
+
+
+|                                                                                         <a href="https://github.com/garimasingh128"><img src="https://avatars3.githubusercontent.com/u/44302373?s=460&u=efaafa72f4d83d40b66fc68258d14cebbf1d7de0&v=4" width=150px height=150px /></a>                                                                                         |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                        **[Garima Singh](https://www.linkedin.com/in/garimasinghnitp/)**                                                                                                                                        |
+| <a href="https://twitter.com/garingh128"><img src="https://openvisualfx.com/wp-content/uploads/2019/10/pnglot.com-twitter-bird-logo-png-139932.png" width="32px" height="32px"></a>  <a href="https://www.linkedin.com/in/garimasinghnitp/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
+
+> **_Need help?_** 
+> **_Feel free to contact me @ [garingh128@gmail.com](mailto:garingh128@gmail.com?Subject=ProfextProject)_**
+
+[![GitHub followers](https://img.shields.io/github/followers/garimasingh128.svg?label=Follow%20@garimasingh128&style=social)](https://github.com/garimasingh128/) [![Twitter Follow](https://img.shields.io/twitter/follow/garingh128?style=social)](https://twitter.com/garingh128)
+
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/69a18fa3a0574431b6f9463f02a8e7a8)](https://app.codacy.com/manual/garimasingh128/profext?utm_source=github.com&utm_medium=referral&utm_content=garimasingh128/profext&utm_campaign=Badge_Grade_Dashboard)
+[![Relative date](https://img.shields.io/date/1577392258?color=important&label=started&logo=github)](https://github.com/garimasingh128/) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/garimasingh128/)
+
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/garimasingh128/)
 
 
 ## Like This?? Star ⭐ this Repo.

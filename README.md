@@ -116,7 +116,12 @@ Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
 ## ❤️ Inspiration
 We were inspired to create it when we saw that not many tools are available open-source or on the Internet which do the job we intend to do. So we decided to create it as a side-project based purely to learn 
 
-
+## Function of ToDoista
+ 
+ * ToDoista is the most important app. You can use to keep track your professional and personal project.
+ * ToDoista is a nice tool to make your days keep organized.
+ * With calendra feeds you can see all your scheduled Todoista task inside your favorite calendra app.
+ * ToDoista has reduced your stress level.ToDoista is helping you to stay on top of a really complex range of task.
 
 ## 🔆 Tech Stack
  This web application is made with MongoDB, Express.js, React.js and Node.js

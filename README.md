@@ -99,7 +99,9 @@ Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
 
 
 ## 📋 Table of Contents
- ➡️   [Inspiration](#%EF%B8-inspiration)
+ ➡️   [Inspiration](#-inspiration)
+
+ ➡️   [Function of ToDoista](#-function-of-todoista)
  
  ➡️   [Tech Stack](#-Tech-Stack)
 
@@ -252,15 +254,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-
 
 💜 **Thanks**

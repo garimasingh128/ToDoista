@@ -248,42 +248,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-## 👬 Owner
-
-
-|                                                                                         <a href="https://github.com/garimasingh128"><img src="https://avatars3.githubusercontent.com/u/44302373?s=460&u=efaafa72f4d83d40b66fc68258d14cebbf1d7de0&v=4" width=150px height=150px /></a>                                                                                         |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                        **[Garima Singh](https://www.linkedin.com/in/garimasinghnitp/)**                                                                                                                                        |
-| <a href="https://twitter.com/garingh128"><img src="https://openvisualfx.com/wp-content/uploads/2019/10/pnglot.com-twitter-bird-logo-png-139932.png" width="32px" height="32px"></a>  <a href="https://www.linkedin.com/in/garimasinghnitp/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
-
-> **_Need help?_** 
-> **_Feel free to contact me @ [garingh128@gmail.com](mailto:garingh128@gmail.com?Subject=ProfextProject)_**
-
-[![GitHub followers](https://img.shields.io/github/followers/garimasingh128.svg?label=Follow%20@garimasingh128&style=social)](https://github.com/garimasingh128/) [![Twitter Follow](https://img.shields.io/twitter/follow/garingh128?style=social)](https://twitter.com/garingh128)
-
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/69a18fa3a0574431b6f9463f02a8e7a8)](https://app.codacy.com/manual/garimasingh128/profext?utm_source=github.com&utm_medium=referral&utm_content=garimasingh128/profext&utm_campaign=Badge_Grade_Dashboard)
-[![Relative date](https://img.shields.io/date/1577392258?color=important&label=started&logo=github)](https://github.com/garimasingh128/) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/garimasingh128/)
-
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/garimasingh128/)
-
-## Like This?? Star ⭐ this Repo.
-
-[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/garimasingh128/profext)
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://github.com/garimasingh128/profext)
-[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](https://github.com/garimasingh128/profext)
-[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://github.com/garimasingh128/profext)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://github.com/garimasingh128/profext)
-
-> Made By Garima Singh with ❤️
-
-> Garima Singh &copy; 2020
-<br><br>
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/garimasingh128/)
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/garimasingh128/)
-
-## ❤️ Thanks to our awesome contributors.
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):

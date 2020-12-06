@@ -1,7 +1,31 @@
 
+# 👣 TODOISTA
+
+
+[![Join the chat at https://gitter.im/NWoc2020/ToDoista](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/NWoc2020/ToDoista?utm_source=badge&utm_medium=badge&utm_content=badge)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/garimasingh128/ToDoista)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)&nbsp;
+<br>
+
+![GitHub stars](https://img.shields.io/github/stars/garimasingh128/ToDoista.svg?logo=github)
+![GitHub forks](https://img.shields.io/github/forks/garimasingh128/ToDoista.svg?logo=github&color=teal)
+![License](https://img.shields.io/badge/license-MIT-brightgreen)
+![Maintained](https://img.shields.io/maintenance/yes/2020)
+![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-tomato.svg?style=flat&logo=git)
+![GitHub top language](https://img.shields.io/github/languages/top/garimasingh128/ToDoista?color=yellow&logo=javascript)
+
 # TODOISTA - Todo Apps made simpler
 
 This web application is made with MongoDB, Express.js, React.js and Node.js. It has a simple motive to fulfil- making todo lists simple.
+
+# Mentors
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/garimasingh128/ToDoista/) [![Issues Open](https://img.shields.io/github/issues/garimasingh128/ToDoista)](https://github.com/garimasingh128/ToDoista/issues) [![PRs](https://img.shields.io/github/issues-pr/garimasingh128/ToDoista)](https://github.com/garimasingh128/ToDoista/pulls/)
+ [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/garimasingh128)
+
+| GitHub Usernames                                      | Domain                     |
+| ----------------------------------------------------- | -------------------------- |
+| [@garimasingh128](https://github.com/garimasingh128)          | Full Stack + Documentation |
 
 ## Features
 
@@ -10,8 +34,6 @@ This web application is made with MongoDB, Express.js, React.js and Node.js. It 
 * Create todo Logged
 * Create User
 * Start date and deadlines included
-
-## Create all PRs' on develop branch only!
 
 ## ScreenShots
 
@@ -22,11 +44,29 @@ This web application is made with MongoDB, Express.js, React.js and Node.js. It 
 
 [Check out the video on Vimeo](https://vimeo.com/422120752?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=28749)
 
+## Quick Start :
+
+- **Fork it** :
+
+Get your own Fork/Copy of repository by clicking `Fork` button right upper corner.<br><br>
+
+- **Clone**:
+
+```sh
+$ git clone https://github.com/garmisingh128/ToDosita.git
+```
+
+- **Branching**
+```
+$ git checkout -b [your_branch_name]
+```
+
+
 ## 🤝 How to Contribute
 
 ### For sending PR:-
 >-   Pick an open issue from the  [issue list](https://github.com/garimasingh128/ToDoista/issues)  and claim it in the comments. After approval fix the issue and send us a pull request (PR).
->-   All the PR’s need to be sent to the appropriate branch.
+>-   All the PR’s need to be sent to the appropriate branch (usually "master").
 
 ### For Open issue:-
 >-   You can create a new issue and send a pull request.
@@ -49,11 +89,98 @@ You are also supposed to implement a Database in the Backend which should store 
 The data sharing between Frontend and Backend should be in JSON format rendered over REST APIs.
 Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
 
+# This project is a part of NJACK Codes 2020 👣
+  OPEN SOURCE CONTEST - NWoc Code
+
+  ⭐ [Check out the website of NJACK Winter of Code 2020](https://njackwintercode.github.io)
+
+<div >
+<img src="https://njackwinterofcode.github.io/images/nwoc-logo.png" alt="nwoc" height="300" />
+  </div>
+
+
+## 📋 Table of Contents
+ ➡️   [Inspiration](#-inspiration)
+
+ ➡️   [Function of ToDoista](#-function-of-todoista)
+ 
+ ➡️   [Tech Stack](#-Tech-Stack)
+
+ ➡️   [Development Guidelines](#-development-guidelines)
+ 
+ ➡️   [Learning Resources](#-Learning-Resources)
+ 
+ ➡️   [Code Of Conduct](#--code-of-conduct)
+
+ ➡️   [License](#license)
+ 
+ ➡️   [Contributing](#contributors)
+
+## ❤️ Inspiration
+We were inspired to create it when we saw that not many tools are available open-source or on the Internet which do the job we intend to do. So we decided to create it as a side-project based purely to learn 
+
+## ⚡ Function of ToDoista
+ 
+ * ToDoista is the most important app. You can use to keep track your professional and personal project.
+ * ToDoista is a nice tool to make your days keep organized.
+ * With calendra feeds you can see all your scheduled Todoista task inside your favorite calendra app.
+ * ToDoista has reduced your stress level.ToDoista is helping you to stay on top of a really complex range of task.
+
+## 🔆 Tech Stack
+ This web application is made with MongoDB, Express.js, React.js and Node.js
+-  JavaScript: 92.9%
+-  CSS: 3.9%
+-  HTML: 3.2%
+
+
+ ## 💻 Development guidelines
+
+1.  Put all the code in one of the existing files in  `/src`.
+    
+3.  Push all the code to your own branch. Once you are sure it is working, merge it with the `dev`  branch. Let's maintain only the stable and released versions on the  `master`  branch.
+    
+4.  Write a kick-ass, readable, and clean code.
+
+
+## 📝 Learning Resources
+Read these articles to get a quick grab ontechnologies used in the project:
+
+### Resources for learning React.js:
+- https://reactresources.com
+- https://reactjs.org/community/external-resources.html
+- https://reactjs.org/docs/getting-started.html
+- https://github.com/enaqx/awesome-react
+
+### Resources for node.js:
+- https://nodejs.org/en/about/resources/
+- https://github.com/sindresorhus/awesome-nodejs
+- https://www.tutorialsteacher.com/nodejs/nodejs-resources
+
+### Resources to learn Git and Github:
+- https://try.github.io/
+- https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources
+- https://guides.github.com/activities/hello-world/
+
+
+##  💼  Code of Conduct
+
+We want to facilitate a healthy and constructive community behavior by adopting and enforcing our code of conduct.
+Please adhere toward our [Code-of-Conduct](Code-of-Conduct.md).
+
+## 🏆 Contributing
+
+Please read  [CONTRIBUTING.md](CONTRIBUTING..md)  for information on how to contribute to ToDoista.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## ❤️ Thanks to our awesome contributors.
+
+
 ## Contributors
 
 * [Garima Singh](https://github.com/garimasingh128)
 * [Mrinal](https://github.com/mrinal41298)
-
 
 
 
@@ -128,6 +255,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
 
 💜 **Thanks**

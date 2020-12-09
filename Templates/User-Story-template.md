@@ -11,23 +11,23 @@ As a [USER],
 I need [SOME NEW SOFTWARE FEATURE],
 so that I can [ACCOMPLISH THAT].
 
-## Mocks
+## Template
 
-[INSERT RELEVANT PNG FILE]
+[
+The user story should have a reason to exist: what do I need as the user described in the summary?
+This part details any detail that could not be passed by the summary.
+]
 
-### Update 
 
-- [ ] [LIST ITEMS]
+### Acceptance Criteria
 
-### Enhancement to Update [Optional]
+1. [If I do A.]
+1. [B should happen.]
 
-- [ ] [LIST ITEMS]
+[
+Also, here are a few points that need to be addressed:
 
-## Definition of Done
-
-- [ ] All of the required items are completed.
-- [ ] Approval by mentor.
-
-## Estimation
-
-[INSERT NUMBER HERE] hours
+1. Constraint 1;
+1. Constraint 2;
+1. Constraint 3.
+]

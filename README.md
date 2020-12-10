@@ -1,3 +1,5 @@
+![ToDoista](https://socialify.git.ci/garimasingh128/ToDoista/image?description=1&font=Raleway&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark)
+
 
 # TODOISTA - Todo Apps made simpler
 
@@ -63,8 +65,21 @@ Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Learning Resources for ReactJS
+<ul>https://reactresources.com</ul>
+<ul>https://reactjs.org/community/external-resources.html</ul>
 
+## Learning Resources for MongoDB
+<ul>https://docs.mongodb.com/manual/tutorial</ul>
+<ul>https://www.tutorialspoint.com/mongodb/index.htm</ul>
 
+## Learning Resources for ExpressJS
+<ul>https://www.tutorialspoint.com/expressjs/index.htm</ul>
+<ul>https://www.javatpoint.com/expressjs-tutorial</ul>
+
+## Learning Resources for NodeJS
+<ul>https://nodejs.dev/learn</ul>
+<ul>https://www.w3schools.com/nodejs/</ul>
 
 ## Available Scripts
 

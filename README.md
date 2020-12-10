@@ -5,6 +5,10 @@
 
 This web application is made with MongoDB, Express.js, React.js and Node.js. It has a simple motive to fulfil- making todo lists simple.
 
+![ToDoista](https://socialify.git.ci/garimasingh128/ToDoista/image?description=1&descriptionEditable=This%20web%20application%20is%20made%20with%20MongoDB%2C%20Express.js%2C%20React.js%20and%20Node.js.%20It%20has%20a%20simple%20motive%20to%20fulfil-%20making%20todo%20lists%20simple.&font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Dark)
+<br/>
+<br/>
+
 Gitter Channel: https://gitter.im/NWoC2020/ToDoista
 
 ## Features

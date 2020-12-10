@@ -24,6 +24,8 @@ Gitter Channel: https://gitter.im/NWoC2020/ToDoista
 <img src="Screenshot (426).png" height="250px">
 <img src="Screenshot (427).png" height="250px">
 
+[Check out complete walkthrough of ToDoista](https://vimeo.com/489338577)
+
 [Check out the video on Vimeo](https://vimeo.com/422120752?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=28749)
 
 ## 🤝 How to Contribute

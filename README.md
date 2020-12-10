@@ -1,6 +1,8 @@
 
 # TODOISTA - Todo Apps made simpler
 
+[![Join the chat at https://gitter.im/KWoC2020/ToDoista](https://badges.gitter.im/KWoC2020/ToDoista.svg)](https://gitter.im/KWoC2020/ToDoista?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This web application is made with MongoDB, Express.js, React.js and Node.js. It has a simple motive to fulfil- making todo lists simple.
 
 Gitter Channel: https://gitter.im/NWoC2020/ToDoista

@@ -48,6 +48,7 @@ export default class CreateUser extends Component {
                 className="form-control"
                 value={this.state.username}
                 onChange={this.onChangeUsername}
+                minLength={3}
                 />
           </div>
           <div className="form-group">

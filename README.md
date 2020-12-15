@@ -1,7 +1,17 @@
 
 # TODOISTA - Todo Apps made simpler
 
-This web application is made with MongoDB, Express.js, React.js and Node.js. It has a simple motive to fulfil- making todo lists simple.
+[![Join the chat at https://gitter.im/KWoC2020/ToDoista](https://badges.gitter.im/KWoC2020/ToDoista.svg)](https://gitter.im/KWoC2020/ToDoista?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+### This web application is made with MongoDB, Express.js, React.js and Node.js. It has a simple motive to fulfil- making todo lists simple.
+
+<br>
+
+![ToDoista](https://socialify.git.ci/garimasingh128/ToDoista/image?description=1&descriptionEditable=This%20web%20application%20is%20made%20with%20MongoDB%2C%20Express.js%2C%20React.js%20and%20Node.js.%20It%20has%20a%20simple%20motive%20to%20fulfil-%20making%20todo%20lists%20simple.&font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Dark)
+<br/>
+<br/>
+
+Gitter Channel: https://gitter.im/NWoC2020/ToDoista
 
 ## Features
 
@@ -48,6 +58,37 @@ Your backend is supposed to store all the tasks data received from the Frontend 
 You are also supposed to implement a Database in the Backend which should store all this structured data.
 The data sharing between Frontend and Backend should be in JSON format rendered over REST APIs.
 Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
+
+<br>
+
+## 📝 Learning Resources
+
+Read these articles to get a quick grab on MERN Stack and other technologies used in the project:
+
+### Resources for MongoDB:
+- https://docs.mongodb.com/manual/
+- https://university.mongodb.com/courses/M001/about
+- https://www.tutorialspoint.com/mongodb/index.htm
+
+### Resources for Express.js:
+- https://expressjs.com/en/starter/installing.html
+- https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
+- https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm
+
+### Resources for React.js:
+- https://reactresources.com
+- https://reactjs.org/community/external-resources.html
+- https://reactjs.org/docs/getting-started.html
+- https://github.com/enaqx/awesome-react
+
+### Resources for Node.js:
+- https://nodejs.org/en/about/resources/
+- https://github.com/sindresorhus/awesome-nodejs
+- https://www.tutorialsteacher.com/nodejs/nodejs-resources
+
+
+<br>
+
 
 ## Contributors
 

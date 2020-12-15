@@ -25,10 +25,10 @@ Gitter Channel: https://gitter.im/NWoC2020/ToDoista
 
 ## ScreenShots
 
-<img src="Screenshot (424).png" height="250px">
-<img src="Screenshot (425).png" height="250px">
-<img src="Screenshot (426).png" height="250px">
-<img src="Screenshot (427).png" height="250px">
+<img src="demo/demo1.png" height="250px">
+<img src="demo/demo2.png" height="250px">
+<img src="demo/demo3.png" height="250px">
+<img src="demo/demo4.png" height="250px">
 
 [Check out complete walkthrough of ToDoista](https://vimeo.com/489338577)
 

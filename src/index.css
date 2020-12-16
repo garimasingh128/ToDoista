@@ -4,9 +4,10 @@ body {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
-    background-image: url(bg.jpg);
-    background-color: aqua;
+    /* background-image: url(bg.jpg);  */
+    background-color: #f5beb8;
   -moz-osx-font-smoothing: grayscale;
+  font-size: 1.1rem;
 }
 
 body, html {
@@ -17,4 +18,64 @@ body, html {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.navbar-dark .navbar-brand {
+  color:#f5beb8;
+}
+.navbar-brand {
+  display: inline-block;
+  padding-top: .3125rem;
+  padding-bottom: .3125rem;
+  margin-right: 1rem;
+  font-size: 2rem;
+  line-height: inherit;
+}  
+.navbar-dark .navbar-nav .nav-link {
+  color:rgba(255, 255, 255, 0.850);
+}
+.navbar-dark .navbar-text a {
+  color:rgba(255, 255, 255, 0.850);
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: pink;
+}
+.navbar-dark .navbar-text a:hover {
+  color: pink;
+}
+.table .thead-dark th {
+  color: #fff;
+  background-color: #343a40;
+  border-color: #454d55;
+}
+.table thead th {
+  vertical-align: bottom;
+  border-bottom: 1px solid #dee2e6;
+}
+.table td, .table th {
+  padding: .75rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+}
+th {
+  text-align: inherit;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+th {
+  display: table-cell;
+  vertical-align: inherit;
+  font-weight: bold;
+}
+
+table {
+  width:100%;
+  border-collapse: collapse;
+}
+@media(max-width:600px){
+  .table .thead-dark th{
+    width: 100%;
+
+  }
 }

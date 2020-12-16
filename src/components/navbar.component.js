@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
+import "../index.css";
 
 export default class Navbar extends Component {
 
@@ -8,16 +9,16 @@ export default class Navbar extends Component {
       <nav className="navbar navbar-dark bg-dark navbar-expand-lg">
         <Link to="/" className="navbar-brand">ToDoista</Link>
         <div className="collpase navbar-collapse">
-        <ul className="navbar-nav mr-auto">
-          <li className="navbar-item">
+        <ul className="navbar-nav ml-auto">
+          <span class="navbar-text" >
           <Link to="/" className="nav-link">Your ToDo List</Link>
-          </li>
-          <li className="navbar-item">
+          </span>
+          <span class="navbar-text">
           <Link to="/create" className="nav-link">Create ToDo Log</Link>
-          </li>
-          <li className="navbar-item">
+          </span>
+          <span class="navbar-text">
           <Link to="/user" className="nav-link">Create User</Link>
-          </li>
+          </span>
         </ul>
         </div>
       </nav>

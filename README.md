@@ -55,16 +55,11 @@ Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
 
 ## Contributors
 
-* [Garima Singh](https://github.com/garimasingh128)
-* [Mrinal](https://github.com/mrinal41298)
-
-
-
+<a href="https://github.com/garimasingh128/ToDoista/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=garimasingh128/ToDoista" />
+</a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
-
 
 ## Available Scripts
 

@@ -1,0 +1,12 @@
+footer {
+	position: absolute;
+	bottom: 0;
+}
+
+footer a {
+	color: rgb(240, 234, 255);
+}
+
+footer a:hover {
+	color: rgb(187, 187, 255);
+}

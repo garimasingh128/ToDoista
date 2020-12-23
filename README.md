@@ -214,9 +214,6 @@ Please read  [CONTRIBUTING.md](CONTRIBUTING..md)  for information on how to cont
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-
-
 ## Available Scripts
 
 In the project directory, you can run:

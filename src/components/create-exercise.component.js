@@ -1,5 +1,9 @@
 import React, { Component } from 'react';
 import axios from 'axios';
+import DatePicker from 'react-datepicker';
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import "react-datepicker/dist/react-datepicker.css";
 import CustomForm from './form.component';
 
 export default class CreateExercise extends Component {
@@ -39,6 +43,8 @@ export default class CreateExercise extends Component {
 
   }
 
+  ErrorNotify(message) { toast.error(message) };
+
   onChangeUsername(e) {
     this.setState({
       username: e.target.value
@@ -64,9 +70,22 @@ export default class CreateExercise extends Component {
   }
 
   onChangeDueDate(date) {
-    this.setState({
-      ddate: date
-    })
+    let check = date.getFullYear() > this.state.date.getFullYear() ? true :
+      date.getFullYear() === this.state.date.getFullYear() &&
+      date.getMonth() > this.state.date.getMonth() ? true :
+      date.getFullYear() === this.state.date.getFullYear() &&
+      date.getMonth() == this.state.date.getMonth() &&
+      date.getDate() >= this.state.date.getDate()
+
+    if (check)
+    {
+      this.setState({
+        ddate: date
+      })
+    } else {
+      console.log('err')
+      this.ErrorNotify('Please enter a valid due date')
+    }
   }
 
 
@@ -90,7 +109,8 @@ export default class CreateExercise extends Component {
 
   render() {
     return (
-    <div>
+      <div>
+        <ToastContainer/>
       <h3>Create New Exercise Log</h3>
       <CustomForm
         onSubmit={this.onSubmit}

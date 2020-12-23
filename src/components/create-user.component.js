@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import axios from 'axios';
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 export default class CreateUser extends Component {
   constructor(props) {
@@ -12,6 +14,8 @@ export default class CreateUser extends Component {
       username: ''
     }
   }
+
+  ErrorNotify(message) { toast.error(message) };
 
   onChangeUsername(e) {
     this.setState({
@@ -28,8 +32,17 @@ export default class CreateUser extends Component {
 
     console.log(user);
 
-    axios.post('http://localhost:5000/users/add', user)
-      .then(res => console.log(res.data));
+    try {
+      axios.post('http://localhost:5000/users/add', user)
+        .then(res => console.log(res.data))
+        .catch(err => {
+          console.log(err)
+          this.ErrorNotify("Failed to add user")
+        });
+    } catch (err) {
+      console.log(err)
+      this.ErrorNotify("Failed to add user")
+    }
 
     this.setState({
       username: ''
@@ -39,6 +52,7 @@ export default class CreateUser extends Component {
   render() {
     return (
       <div>
+        <ToastContainer />
         <h3>Create New User</h3>
         <form onSubmit={this.onSubmit}>
           <div className="form-group">

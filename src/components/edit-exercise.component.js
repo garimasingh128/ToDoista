@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 import DatePicker from 'react-datepicker';
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 import "react-datepicker/dist/react-datepicker.css";
 
 export default class EditExercise extends Component {
@@ -53,6 +55,8 @@ export default class EditExercise extends Component {
 
   }
 
+  ErrorNotify(message) { toast.error(message) };
+
   onChangeUsername(e) {
     this.setState({
       username: e.target.value
@@ -78,9 +82,17 @@ export default class EditExercise extends Component {
   }
 
   onChangeDueDate(date) {
-    this.setState({
-      ddate: date
-    })
+    if (date.getYear() >= this.state.date.getYear() &&
+      date.getMonth() >= this.state.date.getMonth() &&
+      date.getDate() >= this.state.date.getDate())
+    {
+      this.setState({
+        ddate: date
+      })
+    } else {
+      console.log('err')
+      this.ErrorNotify('Please enter a valid due date')
+    }
   }
 
   onSubmit(e) {
@@ -104,7 +116,8 @@ export default class EditExercise extends Component {
 
   render() {
     return (
-    <div>
+      <div>
+        <ToastContainer/>
       <h3>Edit Exercise Log</h3>
       <form onSubmit={this.onSubmit}>
         <div className="form-group">

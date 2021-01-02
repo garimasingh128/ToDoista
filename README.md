@@ -1,7 +1,15 @@
+ <h1 align="center"> TODOISTA <br/>Todo Apps made simpler</h1>
+ 
+<h2 align="center">
 
-# TODOISTA - Todo Apps made simpler
+![https://img.shields.io/badge/Licience-MIT-green](https://img.shields.io/badge/Licience-MIT-green)
+[![gitter](https://img.shields.io/badge/Chat-on%20gitter-red)](https://gitter.im/NWoC2020/ToDoista)
+[![GitHub issues](https://img.shields.io/github/issues/garimasingh128/ToDoista?style=plastic)](https://github.com/garimasingh128/ToDoista/issues)
+[![GitHub forks](https://img.shields.io/github/forks/garimasingh128/ToDoista)](https://github.com/garimasingh128/ToDoista/network)
+[![GitHub stars](https://img.shields.io/github/stars/garimasingh128/ToDoista?style=plastic)](https://github.com/garimasingh128/ToDoista/stargazers)
+![Contribotion](https://img.shields.io/badge/Contribution-Welcome-brightgreen)
 
-[![Join the chat at https://gitter.im/KWoC2020/ToDoista](https://badges.gitter.im/KWoC2020/ToDoista.svg)](https://gitter.im/KWoC2020/ToDoista?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+</h2>
 
 This web application is made with MongoDB, Express.js, React.js and Node.js. It has a simple motive to fulfil- making todo lists simple.
 

@@ -206,19 +206,7 @@ Please read  [CONTRIBUTING.md](CONTRIBUTING..md)  for information on how to cont
 
 
 
-Thanks goes to these wonderful people:
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/garimasingh128"><img src="https://avatars.githubusercontent.com/garimasingh128" width="100px;" alt=""/><br /><sub><b>Garima Singh</b></sub></a><br />🖋 📖 💻</td>
-    <td align="center"><a href="https://github.com/vishal-raj-1"><img src="https://avatars.githubusercontent.com/vishal-raj-1" width="100px;" alt=""/><br /><sub><b>Vishal Rajput</b></sub></a><br /> 📖 💻</td>
-    <td align="center"><a href="https://github.com/rishikeshrajrxl"><img src="https://avatars.githubusercontent.com/rishikeshrajrxl" width="100px;" alt=""/><br /><sub><b>Rishikesh Raj</b></sub></a><br />📖 💻</td>
-   
-  </tr>
-</table>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

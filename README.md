@@ -205,7 +205,6 @@ Please read  [CONTRIBUTING.md](CONTRIBUTING..md)  for information on how to cont
 <br>
 
 
-## Contributors ✨
 
 Thanks goes to these wonderful people:
 

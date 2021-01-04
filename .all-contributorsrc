@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Vishal-raj-1",
+      "name": "Vishal Rajput",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/59874304?v=4",
+      "profile": "https://github.com/Vishal-raj-1",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "ToDoista",
+  "projectOwner": "garimasingh128",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

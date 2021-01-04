@@ -1,6 +1,5 @@
  <h1 align="center"> TODOISTA <br/>Todo Apps made simpler</h1>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
  
 <h2 align="center">
@@ -66,18 +65,6 @@ Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
 
 ## Contributors
 
-<a href="https://github.com/garimasingh128/ToDoista/graphs/contributors">
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="http://garimasingh.netlify.app"><img src="https://avatars2.githubusercontent.com/u/44302373?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Garima Singh</b></sub></a><br /><a href="#infra-garimasingh128" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/garimasingh128/ToDoista/commits?author=garimasingh128" title="Tests">⚠️</a> <a href="https://github.com/garimasingh128/ToDoista/commits?author=garimasingh128" title="Code">💻</a></td>
-
-    <td align="center"><a href="https://github.com/m-code12"><img src="https://avatars0.githubusercontent.com/u/53649201?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Monika Jha</b></sub></a><br /><a href="https://github.com/garimasingh128/ToDoista/commits?author=m-code12" title="Code">💻</a></td>
-
-  </tr>
-</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->

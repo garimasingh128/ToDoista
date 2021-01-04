@@ -80,8 +80,10 @@ Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-  <img src="https://contrib.rocks/image?repo=garimasingh128/ToDoista" />
+ 
 </a>
+
+## How to run the app locally?
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

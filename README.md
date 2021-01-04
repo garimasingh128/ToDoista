@@ -72,7 +72,7 @@ Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://gitter.im"><img src="https://avatars2.githubusercontent.com/u/8518239?v=4?s=100" width="100px;" alt=""/><br /><sub><b>The Gitter Badger</b></sub></a><br /><a href="https://github.com/garimasingh128/ToDoista/commits?author=gitter-badger" title="Code">💻</a></td>
+    <td align="center"><a href="https://gitter.im"><img src="https://avatars2.githubusercontent.com/u/8518239?v=4?s=100" width="100px;" alt=""/><br /><sub><b>The Gitter Badger</b></sub></a><br /><a href="https://github.com/garimasingh128/ToDoista/commits?author=gitter-badger" title="Code">💻</a> <a href="#infra-gitter-badger" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/garimasingh128/ToDoista/commits?author=gitter-badger" title="Tests">⚠️</a></td>
   </tr>
 </table>
 

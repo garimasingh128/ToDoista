@@ -1,4 +1,7 @@
  <h1 align="center"> TODOISTA <br/>Todo Apps made simpler</h1>
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
  
 <h2 align="center">
 
@@ -64,6 +67,19 @@ Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
 ## Contributors
 
 <a href="https://github.com/garimasingh128/ToDoista/graphs/contributors">
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://rishikeshrajrxl.github.io/"><img src="https://avatars1.githubusercontent.com/u/48375834?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RISHIKESH RAJ</b></sub></a><br /><a href="https://github.com/garimasingh128/ToDoista/commits?author=Rishikeshrajrxl" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
   <img src="https://contrib.rocks/image?repo=garimasingh128/ToDoista" />
 </a>
 

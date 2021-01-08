@@ -1,4 +1,6 @@
  <h1 align="center"> TODOISTA <br/>Todo Apps made simpler</h1>
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
  
 <h2 align="center">
 
@@ -63,9 +65,16 @@ Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
 
 ## Contributors
 
-<a href="https://github.com/garimasingh128/ToDoista/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=garimasingh128/ToDoista" />
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+ 
 </a>
+
+## How to run the app locally?
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

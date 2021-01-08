@@ -18,19 +18,19 @@ Gitter Channel: https://gitter.im/NWoC2020/ToDoista
 ## Features
 
 * Logged Exercises
-* Your todo list
-* Create todo Logged
+* Your ToDo List
+* Create ToDo Log
 * Create User
 * Start date and deadlines included
 
 ## Create all PRs' on develop branch only!
 
-## ScreenShots
+## Screenshots
 
-<img src="Screenshot (424).png" height="250px">
-<img src="Screenshot (425).png" height="250px">
-<img src="Screenshot (426).png" height="250px">
-<img src="Screenshot (427).png" height="250px">
+<img src="/screenshots/Screenshot01.png" height="250px">
+<img src="/screenshots/Screenshot02.png" height="250px">
+<img src="/screenshots/Screenshot03.png" height="250px">
+<img src="/screenshots/Screenshot04.png" height="250px">
 
 [Check out the video on Vimeo](https://vimeo.com/422120752?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=28749)
 
@@ -66,6 +66,7 @@ Zip all your Source Code, Screenshots, Deployment Instructions and Upload.
 <a href="https://github.com/garimasingh128/ToDoista/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=garimasingh128/ToDoista" />
 </a>
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

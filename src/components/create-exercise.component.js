@@ -1,7 +1,10 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 import DatePicker from 'react-datepicker';
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 import "react-datepicker/dist/react-datepicker.css";
+import CustomForm from './form.component';
 
 export default class CreateExercise extends Component {
   constructor(props) {
@@ -40,6 +43,8 @@ export default class CreateExercise extends Component {
 
   }
 
+  ErrorNotify(message) { toast.error(message) };
+
   onChangeUsername(e) {
     this.setState({
       username: e.target.value
@@ -65,9 +70,22 @@ export default class CreateExercise extends Component {
   }
 
   onChangeDueDate(date) {
-    this.setState({
-      ddate: date
-    })
+    let check = date.getFullYear() > this.state.date.getFullYear() ? true :
+      date.getFullYear() === this.state.date.getFullYear() &&
+      date.getMonth() > this.state.date.getMonth() ? true :
+      date.getFullYear() === this.state.date.getFullYear() &&
+      date.getMonth() == this.state.date.getMonth() &&
+      date.getDate() >= this.state.date.getDate()
+
+    if (check)
+    {
+      this.setState({
+        ddate: date
+      })
+    } else {
+      console.log('err')
+      this.ErrorNotify('Please enter a valid due date')
+    }
   }
 
 
@@ -85,73 +103,32 @@ export default class CreateExercise extends Component {
     console.log(exercise);
 
     axios.post('http://localhost:5000/exercises/add', exercise)
-      .then(res => console.log(res.data));
-
-    window.location = '/';
+      .then(res => console.log(res.data))
+      .then(() => window.location = '/');
   }
 
   render() {
     return (
-    <div>
+      <div>
+        <ToastContainer/>
       <h3>Create New Exercise Log</h3>
-      <form onSubmit={this.onSubmit}>
-        <div className="form-group">
-          <label>Username: </label>
-          <select ref="userInput"
-              required
-              className="form-control"
-              value={this.state.username}
-              onChange={this.onChangeUsername}>
-              {
-                this.state.users.map(function(user) {
-                  return <option
-                    key={user}
-                    value={user}>{user}
-                    </option>;
-                })
-              }
-          </select>
-        </div>
-        <div className="form-group">
-          <label>Description: </label>
-          <input  type="text"
-              required
-              className="form-control"
-              value={this.state.description}
-              onChange={this.onChangeDescription}
-              />
-        </div>
-        <div className="form-group">
-          <label>Duration (in minutes): </label>
-          <input
-              type="text"
-              className="form-control"
-              value={this.state.duration}
-              onChange={this.onChangeDuration}
-              />
-        </div>
-        <div className="form-group">
-          <label>Date: </label>
-          <div>
-            <DatePicker
-              selected={this.state.date}
-              onChange={this.onChangeDate}
-            />
-          </div>
-        </div>
-        <div className="form-group">
-          <label>Due Date: </label>
-          <div>
-            <DatePicker
-              selected={this.state.ddate}
-              onChange={this.onChangeDueDate}
-            />
-          </div>
-        </div>
-          <div className="form-group">
-          <input type="submit" value="Create Exercise Log" className="btn btn-primary" />
-        </div>
-      </form>
+      <CustomForm
+        onSubmit={this.onSubmit}
+        onChangeUsername={this.onChangeUsername}
+        onChangeDescription={this.onChangeDescription}
+        onChangeDate={this.onChangeDate}
+        onChangeDueDate={this.onChangeDueDate}
+        onChangeDuration={this.onChangeUsername}
+        state={{
+          users: this.state.users,
+          username: this.state.username,
+          date: this.state.date,
+          ddate: this.state.ddate,
+          duration: this.state.duration,
+          description: this.state.description
+        }}
+        submitMessage={'Create Exercise Log'}
+        />
     </div>
     )
   }

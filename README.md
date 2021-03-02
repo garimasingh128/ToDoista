@@ -1,4 +1,8 @@
-
+ <h1 align="center"> TODOISTA <br/>Todo Apps made simpler</h1>
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+ 
+<h2 align="center">
 # 👣 TODOISTA
 
 
@@ -15,8 +19,6 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/garimasingh128/ToDoista?color=yellow&logo=javascript)
 
 # TODOISTA - Todo Apps made simpler
-
-[![Join the chat at https://gitter.im/KWoC2020/ToDoista](https://badges.gitter.im/KWoC2020/ToDoista.svg)](https://gitter.im/KWoC2020/ToDoista?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ### This web application is made with MongoDB, Express.js, React.js and Node.js. It has a simple motive to fulfil- making todo lists simple.
 
@@ -40,19 +42,23 @@ Gitter Channel: https://gitter.im/NWoC2020/ToDoista
 ## Features
 
 * Logged Exercises
-* Your todo list
-* Create todo Logged
+* Your ToDo List
+* Create ToDo Log
 * Create User
 * Start date and deadlines included
 
-## ScreenShots
+## Create all PRs' on develop branch only!
 
-<img src="demo/demo1.png" height="250px">
-<img src="demo/demo2.png" height="250px">
-<img src="demo/demo3.png" height="250px">
-<img src="demo/demo4.png" height="250px">
+## Screenshots
+
+<img src="/screenshots/Screenshot01.png" height="250px">
+<img src="/screenshots/Screenshot02.png" height="250px">
+<img src="/screenshots/Screenshot03.png" height="250px">
+<img src="/screenshots/Screenshot04.png" height="250px">
+
 
 [Check out complete walkthrough of ToDoista](https://vimeo.com/489338577)
+
 
 [Check out the video on Vimeo](https://vimeo.com/422120752?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=28749)
 
@@ -210,6 +216,9 @@ Please read  [CONTRIBUTING.md](CONTRIBUTING..md)  for information on how to cont
 * [Garima Singh](https://github.com/garimasingh128)
 * [Mrinal](https://github.com/mrinal41298)
 
+
+
+## How to run the app locally?
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

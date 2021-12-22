@@ -20,7 +20,8 @@ export default class CreateExercise extends Component {
       duration: 0,
       date: new Date(),
       ddate: new Date(),
-      users: []
+      users: [],
+      error: ""
     }
   }
 
@@ -28,6 +29,7 @@ export default class CreateExercise extends Component {
     axios.get('http://localhost:5000/users/')
       .then(response => {
         if (response.data.length > 0) {
+          console.log(response.data);
           this.setState({
             users: response.data.map(user => user.username),
             username: response.data[0].username
@@ -74,6 +76,12 @@ export default class CreateExercise extends Component {
   onSubmit(e) {
     e.preventDefault();
 
+    const userFound = this.state.users.find(user => user === this.state.username);
+    if(!userFound) {
+      this.setState({error: "Please select an user from the list"});
+      return;
+    }
+
     const exercise = {
       username: this.state.username,
       description: this.state.description,
@@ -96,21 +104,17 @@ export default class CreateExercise extends Component {
       <h3>Create New Exercise Log</h3>
       <form onSubmit={this.onSubmit}>
         <div className="form-group">
-          <label>Username: </label>
-          <select ref="userInput"
-              required
-              className="form-control"
-              value={this.state.username}
-              onChange={this.onChangeUsername}>
-              {
-                this.state.users.map(function(user) {
-                  return <option
-                    key={user}
-                    value={user}>{user}
-                    </option>;
-                })
-              }
-          </select>
+          <label htmlFor="username">Username: </label>
+          <input list="users" name="username" id="username" className="form-control" required onChange={this.onChangeUsername}/>
+          <p>{this.state.error}</p>
+          <datalist id="users">
+            {
+              this.state.users.map(user => {
+                return <option key={user} value={user}/>
+              })
+            }
+          </datalist>
+
         </div>
         <div className="form-group">
           <label>Description: </label>
